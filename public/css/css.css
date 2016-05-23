@@ -1,0 +1,22 @@
+.padding{border:1px solid transparent; color: white;}
+.padding tr th{border:1px solid transparent; width:20%; padding:10px; background:transparent; color:white; font-size:15px; text-align:left; }
+.padding tr td{border:1px solid transparent; padding:5px; width:80%; text-align:left;}
+.gambar{box-shadow:0 5px 10px grey; width: 57%; height: 450px;}
+.btn-menu{
+	display:inline-block;
+	border:none;
+	padding:5px 10px;
+	margin-bottom:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+	border-radius:5px;
+}
+.biru{
+	background:#1ABC9C;
+	color:white;
+}
+.biru:hover{
+	background:teal;
+	color:white;
+}

@@ -1,0 +1,47 @@
+.wrapper-menu{width:800px; padding:10px; margin:auto; background:#1ABC9C; color:white; text-align:center; font-size:16px; border-radius:5px; box-shadow:0 5px 10px grey;}
+.text{
+	width:280%;
+	padding:10px;
+	margin-top:20px;	
+}
+.btn-menu{
+	display:inline-block;
+	border:none;
+	padding:5px 10px;
+	margin-bottom:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+	border-radius:5px;
+}
+.biru{
+	background:#1ABC9C;
+	color:white;
+}
+.biru:hover{
+	background:teal;
+	color:white;
+}
+
+.btn-big{
+	display:inline-block;
+	border:none;
+	padding:20px 470px;
+	margin-bottom:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+	border-radius:1px;
+}
+.merah{
+	background:#1ABC9C;
+	color:white;
+}
+.merah:hover{
+	background:teal;
+	color:white;
+}
+fieldset{margin:0 2px 20px; border:1px solid silver; border-radius:5px;}
+.padding{border:1px solid white; width:50%; margin-top:-150px;}
+.padding tr th{border:1px solid white; padding:10px; background:white; color:black; font-size:15px; text-align:left; }
+.padding tr td{border:1px solid white; padding:5px; text-align:left;}

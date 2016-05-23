@@ -1,0 +1,7 @@
+.padding{border:1px solid transparent; background-color:#5D4037; width:57%; color: white; box-shadow:0 5px 10px grey;}
+.padding tr th{border:1px solid transparent; padding:10px; width:12%; background:transparent; color:white; font-size:15px; text-align:left; }
+.padding tr td{border:1px solid transparent; padding:5px; width:45%; text-align:left;}
+.gambar{box-shadow:0 5px 10px grey; width: 57%; height: 450px;}
+.batas{border:1px solid transparent; background-color:white; width:57%; color: black; box-shadow:0 5px 10px grey;}
+.batas tr th{border:1px solid transparent; padding:10px; width:12%; background:transparent; color:black; font-size:15px; text-align:left; }
+.batas tr td{border:1px solid transparent; padding:5px; width:45%; text-align:left;}

@@ -1,0 +1,57 @@
+.btn{
+	display:inline-block;
+	border:none;
+	padding:4px 7px;
+	margin-bottom:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+	width: 28%;
+	border-radius: 3px;
+}
+.btny{
+	display:inline-block;
+	border:none;
+	padding:4px 7px;
+	margin-bottom:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+	width: 11%;
+}
+.bt{
+	display:inline-block;
+	border:none;
+	padding:3px 2px;
+	margin-bottom:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+	width: 5%;
+	margin-left: 94%;
+	margin-top:-7%;
+}
+.biru{
+	background:#0288D1;
+	color:white;
+}
+.biru:hover{
+	background:teal;
+	color:white;
+}
+.merah{
+	background:#a0263d;
+	color:white;
+}
+.merah:hover{
+	background:maroon;
+	color:white;
+}
+.kuning{
+	background:#b7ce4e;
+	color:white;
+}
+.kuning:hover{
+	background:#90ad07;
+	color:white;
+}
